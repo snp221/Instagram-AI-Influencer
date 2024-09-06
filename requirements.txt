@@ -1,0 +1,8 @@
+torch
+diffusers
+spaces
+transformers
+peft
+sentencepiece
+instagrapi
+langchain_huggingface
